@@ -1,2 +1,2 @@
 # java-jdbc
-Conexão com banco de dados - Exemplos - Exercicios
+Exercicios de conexão com o banco de dados CRUD.
